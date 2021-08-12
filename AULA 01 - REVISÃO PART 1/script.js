@@ -40,6 +40,7 @@ console.log(verifique)
 
 // EX : 10
 let result = 20 + 5 + (2 / 2) + 20
+//result 46
 console.log(result)
 
 // EX : 11
@@ -47,6 +48,11 @@ let n1 = 1
 let n2 = 'henrique'
 let resultN = n1 - n2
 console.log(resultN)
+
+let n11 = 1
+let n22 = 'henrique2'
+let resultN2 = n11 - n22
+console.log(resultN2)
 
 // EX : 12
 let numeroString = '200'
